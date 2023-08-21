@@ -1,0 +1,17 @@
+.nav img{
+    height: 40vh;
+  }
+
+  @media (min-width: 600px) and (max-width: 1000px) {
+    
+    .nav img{
+      height: 40vh;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .nav img{
+        height: 20vh;
+      }
+  }
+  
