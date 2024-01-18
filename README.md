@@ -1,6 +1,6 @@
 # Karate Institute Website
 
-Welcome to the Karate Institute website project! This web application was developed during an internship with a digital startup in the summer. It is currently live on  (www.ijkashotokanindia.com) and actively used by the institution.
+Welcome to the Karate Institute website project! This web application was developed during an internship with a digital startup in the summer. It is currently live on  www.ijkashotokanindia.com and actively used by the institution.
 
 ## Project Structure
 
@@ -27,7 +27,7 @@ Welcome to the Karate Institute website project! This web application was develo
 
 ### Files
 
-- `CNAME`: URL domain file (www.ijkashotokanindia.com)[www.ijkashotokanindia.com]
+- `CNAME`: URL domain file [www.ijkashotokanindia.com]
 - `index.html`: Main HTML page
 - `kara5.jpg`: Image file
 - `script.js`: JavaScript file
