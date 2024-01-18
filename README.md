@@ -3,7 +3,9 @@
 Welcome to the Karate Institute website project! This web application was developed during an internship with a digital startup in the summer. It is currently live on  www.ijkashotokanindia.com and actively used by the institution.
 
 ## Project Structure
+[Visit my website](https://www.example.com)
 
+<a href="https://www.example.com">Visit my website</a>
 ### Directories
 
 - **ach_img:** Achievement image files
