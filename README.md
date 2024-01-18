@@ -1,11 +1,9 @@
 # Karate Institute Website
 
-Welcome to the Karate Institute website project! This web application was developed during an internship with a digital startup in the summer. It is currently live on  www.ijkashotokanindia.com and actively used by the institution.
+Welcome to the Karate Institute website project! This web application was developed during an internship with a digital startup - [DenNard Technologies](https://sites.google.com/view/dennardtechnologies/home) in the summer. It is currently live on  www.ijkashotokanindia.com and actively used by the institution.
 
 ## Project Structure
-[Visit my website](https://www.example.com)
 
-<a href="https://www.example.com">Visit my website</a>
 ### Directories
 
 - **ach_img:** Achievement image files
@@ -44,7 +42,7 @@ The website is currently live on [www.ijkashotokanindia.com], and hosted at the 
 
 ## Author
 
-Pravin Raj - Internship at (DenNard Technologies)[https://sites.google.com/view/dennardtechnologies/home].
+Pravin Raj - Internship at [DenNard Technologies](https://sites.google.com/view/dennardtechnologies/home).
 
 ## Additional Information
 
