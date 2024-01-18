@@ -36,6 +36,20 @@ Welcome to the Karate Institute website project! This web application was develo
 
 This website serves as a comprehensive platform for the Karate Institute, encompassing achievements, school activities, affiliated university information, and more. The project includes image files, faculty member images, and various HTML pages.
 
+## Deployment
+
+The website is currently live on [www.ijkashotokanindia.com], and hosted at the domain specified in the CNAME file.
+
+## Author
+
+Pravin Raj - Internship at (DenNard Technologies)[https://sites.google.com/view/dennardtechnologies/home].
+
+## Additional Information
+
+- The project was initially developed as an internship project.
+- The website contains information about the institute, its programs, faculty, achievements, events, and schedule.
+- It also includes images and interactive elements.
+
 ## How to Contribute
 
 If you'd like to contribute to the development of this project, feel free to submit a pull request. Your contributions are greatly appreciated!
