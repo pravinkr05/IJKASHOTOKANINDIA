@@ -50,13 +50,6 @@ Pravin Raj - Internship at [DenNard Technologies](https://sites.google.com/view/
 - The website contains information about the institute, its programs, faculty, achievements, events, and schedule.
 - It also includes images and interactive elements.
 
-## How to Contribute
-
-If you'd like to contribute to the development of this project, feel free to submit a pull request. Your contributions are greatly appreciated!
-
-## License
-
-This project is licensed under [MIT LICENSE](LICENSE.md) - specify your license details.
 
 ## Acknowledgements
 
